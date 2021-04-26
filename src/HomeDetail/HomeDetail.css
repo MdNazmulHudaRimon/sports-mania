@@ -1,0 +1,25 @@
+.mainDiv img{
+    height: 150px;
+    margin-top: 10px;
+}
+.mainDiv{
+  float: left;
+}
+.team{
+    color: black;
+    width: 350px;
+    height: 350px;
+    border:1px solid white;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.btn{
+    background-color: #388BF8;
+    width: 90px;
+    border-radius: 10px;
+    border:1px solid gray;
+    padding: 15px;
+}
